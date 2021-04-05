@@ -6,7 +6,7 @@
 
 
 ## **About Me:**
-Full Stack Web Developer • Java • C/C++ 
+**Full Stack Web Developer • Java • C/C++**
 
 
 ## **Github Streak:**
