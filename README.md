@@ -8,11 +8,12 @@
 ## **About Me:**
 <p align = "center"> Full Stack Web Developer • Java • C/C++ </p>
 ---
+<p>
 - Show some ❤️ by giving ⭐ to **my repositories and you can also fork them and make your contribution!**
 - Learning all about **Open Source**
 - **I am currently brushing up my skills and plan to learn Devlopment skills more and more**
 - I love to contribute to **open source projects 💡**
-
+</p>
 ## **Github Streak:**
 <p align = "center">
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=HrkJarvis&line_height=40&theme=dark">
