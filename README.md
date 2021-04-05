@@ -7,6 +7,7 @@
 
 ## **About Me:**
 <p align = "center"> Full Stack Web Developer • Java • C/C++ </p>
+---
 - Show some ❤️ by giving ⭐ to **my repositories and you can also fork them and make your contribution!**
 - Learning all about **Open Source**
 - **I am currently brushing up my skills and plan to learn Devlopment skills more and more**
