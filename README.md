@@ -6,8 +6,8 @@
 
 
 ## **About Me:**
-<p align = "center"> Full Stack Web Developer • Java • C/C++ </p>
----
+<h1 align = "center"> Full Stack Web Developer • Java • C/C++ </h1>
+
 
 ## **Github Streak:**
 <p align = "center">
